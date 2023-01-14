@@ -1,0 +1,6 @@
+id=init.d
+name=init.d patcher
+version=v0.1
+versionCode=1
+author=cocka11
+description=Init.d patcher is for all Android versions. tested in Android 9 and Android 12L
