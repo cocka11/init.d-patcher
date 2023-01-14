@@ -1,6 +1,6 @@
 {
     "version": 0.2,
     "versionCode": 02,
-    "zipUrl": https://github.com/cocka11/init.d-patcher/releases/download/Test/init.d-patcher-V02.zip,
+    "zipUrl": "https://github.com/cocka11/init.d-patcher/releases/download/Test/init.d-patcher-V02.zip",
     "changelog": bugs fix,
 }
