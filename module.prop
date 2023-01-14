@@ -3,5 +3,5 @@ name=init.d patcher
 version=v0.1
 versionCode=1
 author=cocka11
-updateJson=
+updateJson=https://github.com/cocka11/init.d-patcher/releases/download/Test/init.d-patcher-main.zip
 description=Init.d patcher is for all Android versions. tested in Android 9 and Android 12L
